@@ -33,9 +33,9 @@ This is the repository for the seventh laboratory. In here the students learn ho
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Student No. 1 Name, Student No. 1 Uniandes Email, Student No. 1 owned functionality.
-1. Student No. 2 Name, Student No. 2 Uniandes Email, Student No. 2 owned functionality.
-1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
+Student 1 -> Samuel Peña , <ss.pena@uniandes.edu.co >, código - 202028273 <br>
+Student 2 -> Tomas Díaz , <t.diazv@uniandes.edu.co >, código - 202220658 <br>
+Student 3 -> Manuel Pinzón, <mma.pinzonpi@uniandes.edu.co >, código - 202125748<br>
 
 [Back to top](#sample-collisions)
 
